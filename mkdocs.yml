@@ -1,0 +1,28 @@
+# Project information
+site_name: Kalkulator
+site_description: 
+site_author: Joachim Mortensen
+docs_dir: docs/
+
+# Repository
+repo_name: kalk
+repo_url: https://github.com/xidus/kalk
+
+# Configuration
+theme:
+  name: material
+  language: da
+  palette:
+    primary: green
+    accent: green
+
+# Plugins
+plugins:
+- search
+
+# Navigation
+nav:
+- Introduktion: index.md
+- Installation: installation.md
+- CLI: cli.md
+- API: api.md
