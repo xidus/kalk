@@ -1,0 +1,6 @@
+name: kalk-dev
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pytest
