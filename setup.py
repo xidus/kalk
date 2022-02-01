@@ -20,9 +20,9 @@ setup(
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
 
-    # entry_points={
-    #     'console_scripts': [
-    #         'diveg = diveg.cli:main',
-    #     ],
-    # },
+    entry_points={
+        'console_scripts': [
+            'kalk = kalk.cli:main',
+        ],
+    },
 )
