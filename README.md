@@ -30,7 +30,7 @@ Nu kan programmet anvendes på følgende måde:
 10
 ```
 
-### Fratrækning
+### Subtraktion
 
 ```sh
 (kalk) $ kalk sub 1 2 3 4
